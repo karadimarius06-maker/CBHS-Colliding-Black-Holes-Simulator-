@@ -1,10 +1,10 @@
-# 🌌 Colliding Black Holes Simulator (CBHS)
+# Colliding Black Holes Simulator (CBHS)
 
 An interactive, educational simulator that lets you explore the physics of black hole mergers and gravitational waves.
 
 ---
 
-## ✨ What is CBHS?
+## What is CBHS?
 
 CBHS is a desktop application built around the science behind **LIGO's groundbreaking gravitational wave detections**. You control the parameters, watch the collision unfold, and hear the universe chirp. Each version brings new physics, better visuals, and more real-world data.
 
@@ -12,7 +12,7 @@ Whether you're a curious student, a physics enthusiast, or just someone who thin
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 - **Physics-based simulation** of binary black hole inspirals, mergers, and ringdowns
 - **GPU-accelerated 2D wave field** – pre-generated for smooth, lag-free playback
@@ -24,7 +24,7 @@ Whether you're a curious student, a physics enthusiast, or just someone who thin
 
 ---
 
-## 📥 Download & Run
+## Download & Run
 
 No installation required. Download the build for your OS from the **Releases** page and run it directly.
 
@@ -66,4 +66,4 @@ No installation required. Download the build for your OS from the **Releases** p
 
 ---
 
-*Created with a passion for astrophysics. Enjoy the collision!* 🕳️💥
+*Created with a passion for astrophysics. Enjoy the collision!*
