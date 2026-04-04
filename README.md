@@ -51,7 +51,7 @@ No installation required. Download the build for your OS from the **Releases** p
 
 | Version | Highlights |
 |---------|-----------|
-| **v6.0** | GPU acceleration, GWOSC Archive, realistic inclination projection |
+| **v6.0 coming soon** | GPU acceleration, GWOSC Archive, realistic inclination projection |
 | **v5.1** | Tutorial system, performance hotfix, process lifecycle fix |
 | **v5.0** | First public release, dual-window LIGO mode, wave sonification |
 
