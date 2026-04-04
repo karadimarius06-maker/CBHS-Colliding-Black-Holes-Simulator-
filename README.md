@@ -1,4 +1,4 @@
-# 🌌 Colliding Black Holes Simulator - Official Release (v5.0)
+# 🌌 Colliding Black Holes Simulator - Official Release
 
 Welcome to the very first official public release of the **Colliding Black Holes Simulator (CBHS)**! This application invites you to explore the fascinating physics behind black hole mergers and the discovery of gravitational waves in a highly interactive, educational environment.
 
